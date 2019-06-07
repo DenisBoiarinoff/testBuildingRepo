@@ -21,5 +21,18 @@
     {"id": 17, "project_id": 4, "basement": 0, "name": "1"},
     {"id": 18, "project_id": 4, "basement": 0, "name": "2"},
     {"id": 19, "project_id": 4, "basement": 0, "name": "3"}
+   ],
+   "areas": [
+    {"id": 20, "level_id": 5, "name": "A"},
+    {"id": 21, "level_id": 5, "name": "B"},
+    {"id": 22, "level_id": 5, "name": "C"},
+    {"id": 23, "level_id": 5, "name": "D"},
+    {"id": 24, "level_id": 6, "name": "A"},
+    {"id": 25, "level_id": 6, "name": "B"},
+    {"id": 26, "level_id": 6, "name": "C"},
+    {"id": 27, "level_id": 8, "name": "A"},
+    {"id": 28, "level_id": 8, "name": "B"},
+    {"id": 29, "level_id": 8, "name": "C"},
+    {"id": 30, "level_id": 9, "name": "A"}
    ]
 }
