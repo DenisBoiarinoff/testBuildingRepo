@@ -33,6 +33,7 @@
     {"id": 27, "level_id": 8, "name": "A"},
     {"id": 28, "level_id": 8, "name": "B"},
     {"id": 29, "level_id": 8, "name": "C"},
-    {"id": 30, "level_id": 9, "name": "A"}
+    {"id": 30, "level_id": 9, "name": "A"},
+    {"id": 31, "level_id": 9, "name": "B"}
    ]
 }
