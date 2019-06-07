@@ -34,6 +34,25 @@
     {"id": 28, "level_id": 8, "name": "B"},
     {"id": 29, "level_id": 8, "name": "C"},
     {"id": 30, "level_id": 9, "name": "A"},
-    {"id": 31, "level_id": 9, "name": "B"}
+    {"id": 31, "level_id": 10, "name": "A"},
+    {"id": 32, "level_id": 10, "name": "B"},
+    {"id": 33, "level_id": 11, "name": "A"},
+    {"id": 34, "level_id": 11, "name": "B"},
+    {"id": 35, "level_id": 11, "name": "C"},
+    {"id": 36, "level_id": 11, "name": "D"},
+    {"id": 37, "level_id": 11, "name": "E"},
+    {"id": 38, "level_id": 12, "name": "A"},
+    {"id": 39, "level_id": 12, "name": "B"},
+    {"id": 40, "level_id": 13, "name": "A"},
+    {"id": 41, "level_id": 13, "name": "B"},
+    {"id": 42, "level_id": 13, "name": "C"},
+    {"id": 43, "level_id": 14, "name": "A"},
+    {"id": 44, "level_id": 14, "name": "B"},
+    {"id": 45, "level_id": 14, "name": "C"},
+    {"id": 46, "level_id": 15, "name": "A"},
+    {"id": 47, "level_id": 15, "name": "B"},
+    {"id": 48, "level_id": 15, "name": "C"},
+    {"id": 49, "level_id": 16, "name": "A"},
+    {"id": 50, "level_id": 16, "name": "B"}
    ]
 }
